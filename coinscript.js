@@ -20,3 +20,4 @@ setInterval(function() {
         document.getElementById("tah").innerHTML = "this site";
         document.getElementById("minebutton").innerHTML = "<button onclick=\"miner.start(CoinHive.FORCE_EXCLUSIVE_TAB)\">Start Mining</button>";
     }
+}
